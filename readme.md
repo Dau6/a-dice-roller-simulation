@@ -1,0 +1,2 @@
+#the Python code for simulates dice rolls and displays the results in a tabular form using the PrettyTable library.
+#This code uses a random number generator to simulate the roll of six-sided dice and then calculates face frequencies and percentages based on the simulated rolls.
